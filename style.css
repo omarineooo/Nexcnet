@@ -314,7 +314,7 @@ body {
     align-items: flex-start;        
     gap: 16px;                          
     box-sizing: border-box;
-    margin: 0 !important;
+   
 }
 .h23 {
     color: var(--D_Grey);
@@ -613,7 +613,7 @@ body {
     padding-left: 100px;
     padding-right: 100px;
     box-sizing: border-box;
-    background-color: #f5f7fa;
+    background-color: var(--Silver);
 }
 .cta-content {
     width: 100%;
